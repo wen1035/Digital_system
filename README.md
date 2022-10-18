@@ -1,4 +1,4 @@
-# 數位系統實驗
+# 電子電路和數位系統實驗
 
 ### Joomla CMS 由三個層次所組成，分別是框架層(framework)、應用層(application)與套件層(extension)
 
